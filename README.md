@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:42B883&height=160&section=header&text=Nouhaila%20Bertal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20PHP%20%2F%20Laravel%20%C2%B7%20Vue.js&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:42B883&height=220&section=header&text=Nouhaila%20Bertal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20PHP%20%2F%20Laravel%20%C2%B7%20Vue.js&descAlignY=52&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF2D20&center=true&vCenter=true&width=620&lines=5.5+years+shipping+web+apps+%26+e-commerce;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+MySQL+%E2%80%A2+WooCommerce;From+client+brief+to+production+%F0%9F%9A%80" alt="Typing intro" />
